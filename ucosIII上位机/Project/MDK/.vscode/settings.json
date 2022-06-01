@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bsp_key.h": "c",
+        "bsp_led.h": "c",
+        "bsp_keypad.h": "c"
+    }
+}
